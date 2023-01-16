@@ -1,6 +1,6 @@
 # Advice React App
 
-![](image.jpg
+![](image.jpg)
 
 This is a code repository for the corresponding video tutorial.
 
